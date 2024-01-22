@@ -1,0 +1,12 @@
+{
+  "name": "John Doe",
+  "age": 25,
+  "city": "New York",
+  "is_student": false,
+  "grades": [85, 90, 78],
+  "courses": {
+    "math": "A",
+    "english": "B+",
+    "history": "A-"
+  }
+}
